@@ -1,0 +1,63 @@
+/*
+                               COMPARE.C
+             Copyright (C) Seven Valleys Software 1985,1988
+         Written for Seven Valleys Software by Cheyenne Wills &
+                    Released For Public Distribution
+                          All Rights Reserved
+
+  Permission is granted to freely distribute this code, but not for
+profit, provided that this notice and the following disclaimer are
+included in their entirety and without modifications of any sort.  This
+work may not be sold, or modified and sold, or included in any other
+work to be sold, (except for a nominal media charge), without the
+written permission of the author.
+
+  Permission is granted to modify the source code and distribute it in
+modified form PROVIDED that the authors of any modifications identify
+themselves with name and address following this header and that all such
+modifications are clearly indicated as to location and purpose, with
+descriptive comments that clearly indicate modified lines.
+
+  The author would appreciate hearing of any modifications that may be
+made, but makes no guarantees that such modifications will be
+distributed with future releases of this program.
+
+Author's address:
+
+        Cheyenne C. Wills
+        12 West Locust St.
+        Mechanicsburg, Pa. 17055
+        (717) 697-5198
+
+        Written for
+        Seven Valley's Software
+        P.O. Box 99
+        Glen Rock, Pa 17327
+
+Disclaimer:
+
+  No guarantees or warranties of any kind: This code is distributed
+"AS IS" without any warranty of any kind, either expressed or implied,
+including, but not limited to the implied warranties of merchantability
+and fitness for a particular purpose.  You are soley responsible for the
+selection of the program to achieve your intended results and for the
+results actually obtained.  Should the program prove defective, you (and
+not the author) assume the entire cost of all necessary servicing,
+repair, or correction.
+
+  Neither the author nor anyone else who has been involved in the
+creation, production or delivery of this program shall be liable for any
+direct, indirect, consequential or incidental damages arising out of the
+use or inability to use this program.
+
+                               History:
+Version    Date    Author                 Reason
+-------  --------  ------  ---------------------------------------------
+ 2.0     08/01/84   CCW    Written for Seven Valleys Software
+ 2.1     08/15/85   CCW    Added -i option and online doc
+ 2.2     02/05/86   CCW    Added -t and -w options
+ 2.3     01/21/88   CCW    OS/2 Support
+ 2.4     11/21/88   CCW    Make more portable (ANSI)
+ 2.5     11/19/91   JPW    cleaned up indents, added descriptive report
+ 2.6     01/14/92   JPW    fixed an eof bug, misc more cleanup, drop 1st ff
+*/
